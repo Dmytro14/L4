@@ -1,0 +1,11 @@
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\bin\Debug\netcoreapp3.0\l4.exe
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\bin\Debug\netcoreapp3.0\l4.deps.json
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\bin\Debug\netcoreapp3.0\l4.runtimeconfig.json
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\bin\Debug\netcoreapp3.0\l4.runtimeconfig.dev.json
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\bin\Debug\netcoreapp3.0\l4.dll
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\bin\Debug\netcoreapp3.0\l4.pdb
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\obj\Debug\netcoreapp3.0\l4.csprojAssemblyReference.cache
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\obj\Debug\netcoreapp3.0\l4.AssemblyInfoInputs.cache
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\obj\Debug\netcoreapp3.0\l4.AssemblyInfo.cs
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\obj\Debug\netcoreapp3.0\l4.dll
+C:\Users\922dm\Desktop\Учоба\ООООООООООП\lab02\4\l4\obj\Debug\netcoreapp3.0\l4.pdb
